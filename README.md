@@ -12,8 +12,11 @@ The Deep Image Show is a comprehensive library designed to simplify tensor manip
 - **Flexible Visualization Options**: Customize grid layout and image processing
 
 ## Installation
-
-
+```bash
+git clone https://github.com/ANIRUDHAN101/Deep-Image-Show.git
+cd Deep-Image-Show
+pip install .
+```
 
 ### Dependencies
 
