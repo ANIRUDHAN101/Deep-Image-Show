@@ -38,7 +38,7 @@ def create_image_grid(
     # Auto-calculate figsize if not provided
     if figsize is None:
         # Adjust scaling factor as needed
-        scale_factor = 0.5  # Adjust this to change overall grid size
+        scale_factor = 0.9  # Adjust this to change overall grid size
         figsize = (num_cols * img_width * scale_factor / 100, 
                    num_rows * img_height * scale_factor / 100)
 
